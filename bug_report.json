@@ -1,0 +1,11 @@
+{
+  "Summary": "Nothing works",
+  "Steps to reproduce": "1) Start my computer; 2) Realise that nothing works",
+  "Expected result": "Everything works",
+  "Actual result": "Nothing works",
+  "Test data": "My computer password: 123456",
+  "Environment": "My computer",
+  "Priority": "BLOCKER",
+  "Severity": "BLOCKING",
+  "Assignee": "DENISOV VOVA"
+}
